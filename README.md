@@ -8,6 +8,9 @@ Activity identification presents many challenges, one being how to account for t
 
 In this project my goal was to determine if it is feasible that wearable devices can be used to determine what activities you are doing.
 
+Please feel free to check out the corresponding blog post for more information on the process I followed.
+https://bernardomesa.github.io/DoesFitbitWork/
+
 # Conclusion
 It is possible to reach 94% accuracies in identifying 12 different activities when using a setup of 3 separate wearable devices worn simultaneously on the ankle, chest, and wrist.
 
